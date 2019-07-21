@@ -1,4 +1,5 @@
 <h1 align="center">Stripe Payment gateway </h1>
+<ol>
 <p>clone this project<strong>git clone https://github.com/JubaerHossain/Stripe-Payment-gateway.git</strong></p>
 <p><strong>composer update</strong></p>
 <p>and <strong> .env file create from .env.example</strong></p>
@@ -13,4 +14,5 @@
 <p>now your payment gateway ready to use !</p>
 <p>feel free use it</p>
 <p>thanks</p>
+</ol>
 
