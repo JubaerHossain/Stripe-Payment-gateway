@@ -5,7 +5,7 @@
 <li><p>and <strong> .env </strong>file create from <strong> .env.example</strong></p></li>
 <li><p> then command on your terminal :<strong>php artisan generate:key</strong></p></li>
 <li><p>then create stripe account on this :<strong>  https://stripe.com </strong></p>
-<li><p>go to <strong>.env file</strong> then push this two lines <strong>STRIPE_KEY=pk_test_stripe_key          
+<li><p>go to <strong>.env file</strong> then push this two lines <strong>STRIPE_KEY=pk_test_stripe_key </strong> and  <strong>        
     STRIPE_SECRET=sk_test_stripe_secret</strong></p></li>
    
    <li><p>go to stripe account an u can see option <strong>Devrlopers</strong> click here then u can see option <strong> API Keys</strong> click here and then u can see taht page <strong>Publishable key</strong> and <strong>Secret key</strong></p></li>
