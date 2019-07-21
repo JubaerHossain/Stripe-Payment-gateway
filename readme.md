@@ -1,14 +1,16 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<h1 align="center">Stripe Payment gateway </h1>
+<p>clone this project<strong>git clone https://github.com/JubaerHossain/Stripe-Payment-gateway.git</strong></p>
+<p><strong>composer update</strong></p>
+<p>and <strong> .env file create from .env.example</strong></p>
+<p> then command on your terminal :<strong>php artisan generate:key</strong></p>
+<p>then create stripe account on this :<strong>  https://stripe.com </strong></p>
+<p>go to <strong>.env file</strong> then push this two lines <strong>STRIPE_KEY=pk_test_stripe_key          
+    STRIPE_SECRET=sk_test_stripe_secret</strong></p>
+   
+   <p>go to stripe account an u can see option <strong>Devrlopers</strong> click here then u can see option <strong> API Keys</strong> click here and then u can see taht page <strong>Publishable key</strong> and <strong>Secret key</strong></p>
+   <p>now u hav to copy  two keys and paste on the <strong>.env</strong> file </p>
+<p>then command on your terminal :<strong>php artisan migrate</strong></p>
+<p>now your payment gateway ready to use !</p>
+<p>feel free use it</p>
+<p>thanks</p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
