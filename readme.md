@@ -1,6 +1,6 @@
 <h1 align="center">Stripe Payment gateway </h1>
 <ol>
-<li><p>clone this project<strong>git clone https://github.com/JubaerHossain/Stripe-Payment-gateway.git</strong></p></li>
+<li><p>clone this project <strong>git clone https://github.com/JubaerHossain/Stripe-Payment-gateway.git</strong></p></li>
 <li><p><strong>composer update</strong></p></li>
 <li><p>and <strong> .env file create from .env.example</strong></p></li>
 <li><p> then command on your terminal :<strong>php artisan generate:key</strong></p></li>
