@@ -2,7 +2,7 @@
 <ol>
 <li><p>clone this project <strong>git clone https://github.com/JubaerHossain/Stripe-Payment-gateway.git</strong></p></li>
 <li><p>then command on your terminal : <strong>composer update</strong></p></li>
-<li><p>and <strong> .env file create from .env.example</strong></p></li>
+<li><p>and <strong> .env </strong>file create from <strong> .env.example</strong></p></li>
 <li><p> then command on your terminal :<strong>php artisan generate:key</strong></p></li>
 <li><p>then create stripe account on this :<strong>  https://stripe.com </strong></p>
 <li><p>go to <strong>.env file</strong> then push this two lines <strong>STRIPE_KEY=pk_test_stripe_key          
